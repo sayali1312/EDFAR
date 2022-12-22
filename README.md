@@ -1,4 +1,4 @@
-# EDFAR - Exploring Data Augmentation For Adversial Robustness
+# EDFAR - Exploring Data Augmentation For Adversarial Robustness
 Applications of Machine Learning in Cybersecurity
 
 These notebooks contain data for our reseach project, we are studying the effects of Data Augmentation on Adversial Robustness.
